@@ -1,0 +1,17 @@
+{
+  "name": "opd_kw_calc_box",
+  "version": "0.0.1",
+  "description": "assignment1",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "bin": {
+    "calcbox": "./main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
